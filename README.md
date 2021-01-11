@@ -1,4 +1,4 @@
-# bootcamp-projects-live
+# museum-code-along-live
 
 ## Dependencies
 
