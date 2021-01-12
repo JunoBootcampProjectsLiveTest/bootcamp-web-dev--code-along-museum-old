@@ -8,7 +8,7 @@
 
 ## Lessons that reference this Project in the Notes
 
-- 
+- Code-along: Art Again! :: https://github.com/HackerYou/bootcamp-notes/blob/9d15aed16fbee677f33bc492b0b1c7de43f9ad18/react-and-firebase/useeffect-codealong.md
 
 ## How to Link this project:
 
