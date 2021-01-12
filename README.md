@@ -7,3 +7,5 @@
 `npm install gh-pages`
 
 Link to project in the notes: https://github.com/JunoBootcampProjectsLiveTest/museum-codealong/blob/main/museum-codealong.zip
+
+![project sreenshot](http://url/to/img.png)
