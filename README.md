@@ -13,7 +13,8 @@
 
 ## How to Link this project:
 
-- museum-code-along-bootcamp :: https://github.com/JunoBootcampProjectsLiveTest/museum-codealong/blob/main/museum-codealong.zip
+- Live version :: 
+- Answer Key :: museum-code-along-bootcamp :: https://github.com/JunoBootcampProjectsLiveTest/museum-codealong/blob/main/museum-codealong.zip
 
 ## Project Screenshot:
 ![project sreenshot](https://raw.githubusercontent.com/JunoBootcampProjectsLiveTest/museum-codealong/main/screenshot.png)
