@@ -1,4 +1,4 @@
-# museum-code-along-live
+# bootcamp-web-dev--code-along-museum
 
 ## Dependencies
 
